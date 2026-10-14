@@ -1,0 +1,6 @@
+software,required_version
+Python,3.12
+Node.js,20.0.0
+PostgreSQL,15
+Docker,24.0
+Git,2.40

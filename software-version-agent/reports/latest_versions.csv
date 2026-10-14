@@ -1,0 +1,6 @@
+name,required_version,latest_version,status,source,release_date,checked_at
+Python,3.12,unknown,"ERROR: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to n",,,2026-10-14T16:18:05+00:00
+Node.js,20.0.0,unknown,"ERROR: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to n",,,2026-10-14T16:18:05+00:00
+PostgreSQL,15,unknown,"ERROR: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to n",,,2026-10-14T16:18:06+00:00
+Docker,24.0,unknown,"ERROR: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to n",,,2026-10-14T16:18:07+00:00
+Git,2.40,unknown,"ERROR: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to n",,,2026-10-14T16:18:07+00:00
